@@ -22,6 +22,7 @@
 		06F3EBE92742CF95001CFE37 /* WebArchiveContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06F3EBE12742CF95001CFE37 /* WebArchiveContentView.swift */; };
 		06F3EBEA2742CF95001CFE37 /* SFSymbol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06F3EBE22742CF95001CFE37 /* SFSymbol.swift */; };
 		06F3EBEB2742CF95001CFE37 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06F3EBE32742CF95001CFE37 /* ContentView.swift */; };
+		06F3EBEE2742D9D5001CFE37 /* WKWebView+WebArchive.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06F3EBED2742D9D5001CFE37 /* WKWebView+WebArchive.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -42,6 +43,7 @@
 		06F3EBE22742CF95001CFE37 /* SFSymbol.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SFSymbol.swift; sourceTree = "<group>"; };
 		06F3EBE32742CF95001CFE37 /* ContentView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		06F3EBEC2742D1C6001CFE37 /* OfflineDataAsyncExample.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = OfflineDataAsyncExample.entitlements; sourceTree = "<group>"; };
+		06F3EBED2742D9D5001CFE37 /* WKWebView+WebArchive.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "WKWebView+WebArchive.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +85,7 @@
 				06F3EBD92742CF71001CFE37 /* ContentViewModel.swift */,
 				06F3EBC82742CED9001CFE37 /* Assets.xcassets */,
 				06F3EBCA2742CED9001CFE37 /* Preview Content */,
+				06F3EBED2742D9D5001CFE37 /* WKWebView+WebArchive.swift */,
 			);
 			path = OfflineDataAsyncExample;
 			sourceTree = "<group>";
@@ -198,6 +201,7 @@
 				06F3EBD82742CF6A001CFE37 /* URL+Identifiable.swift in Sources */,
 				06F3EBDA2742CF71001CFE37 /* ContentViewModel.swift in Sources */,
 				06F3EBE82742CF95001CFE37 /* ModalView.swift in Sources */,
+				06F3EBEE2742D9D5001CFE37 /* WKWebView+WebArchive.swift in Sources */,
 				06F3EBE62742CF95001CFE37 /* Alert.swift in Sources */,
 				06F3EBE72742CF95001CFE37 /* PDFContentView.swift in Sources */,
 				06F3EBEA2742CF95001CFE37 /* SFSymbol.swift in Sources */,

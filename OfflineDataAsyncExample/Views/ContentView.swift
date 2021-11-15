@@ -7,7 +7,7 @@ struct ContentView: View {
     
     //MARK: - States
     
-    @State private var text: String = "https://blog.artemnovichkov.com"
+    @State private var text: String = "https://www.artemnovichkov.com"
     @State private var alert: Alert?
     @State private var actionSheetIsPresented = false
     @State private var sheet: Sheet?
