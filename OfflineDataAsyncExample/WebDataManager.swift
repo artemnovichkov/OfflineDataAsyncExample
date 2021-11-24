@@ -4,6 +4,7 @@
 
 import WebKit
 
+@MainActor
 final class WebDataManager: NSObject {
     
     enum DataError: Error {
@@ -25,7 +26,6 @@ final class WebDataManager: NSObject {
         return webView
     }()
 
-    @MainActor
     func createData(url: URL, type: DataType) async throws -> Data {
         try await load(url)
         switch type {
@@ -48,7 +48,6 @@ final class WebDataManager: NSObject {
 
     //MARK: - Private
 
-    @MainActor
     private func load(_ url: URL) async throws {
         return try await withCheckedThrowingContinuation { continuation in
             self.continuation = continuation

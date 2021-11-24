@@ -83,9 +83,9 @@
 				06F3EBD52742CF61001CFE37 /* WebDataManager.swift */,
 				06F3EBD72742CF6A001CFE37 /* URL+Identifiable.swift */,
 				06F3EBD92742CF71001CFE37 /* ContentViewModel.swift */,
+				06F3EBED2742D9D5001CFE37 /* WKWebView+WebArchive.swift */,
 				06F3EBC82742CED9001CFE37 /* Assets.xcassets */,
 				06F3EBCA2742CED9001CFE37 /* Preview Content */,
-				06F3EBED2742D9D5001CFE37 /* WKWebView+WebArchive.swift */,
 			);
 			path = OfflineDataAsyncExample;
 			sourceTree = "<group>";
