@@ -1,7 +1,7 @@
 
 # Offline Data Async Example
 
-An example project for offline data using with async/await.
+An example project for [Async/await for existing iOS apps](https://www.artemnovichkov.com/blog/async-await-offline) article.
 
 
 ## Author
