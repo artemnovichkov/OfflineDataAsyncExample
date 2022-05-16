@@ -3,6 +3,7 @@
 
 An example project for [Async/await for existing iOS apps](https://www.artemnovichkov.com/blog/async-await-offline) article.
 
+[![Build](https://github.com/artemnovichkov/OfflineDataAsyncExample/actions/workflows/build.yml/badge.svg)](https://github.com/artemnovichkov/OfflineDataAsyncExample/actions/workflows/build.yml)
 
 ## Author
 
