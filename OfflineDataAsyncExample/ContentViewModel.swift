@@ -4,6 +4,7 @@
 
 import SwiftUI
 
+@MainActor
 final class ContentViewModel {
     
     //MARK: - Button Data
